@@ -1,0 +1,1 @@
+var API_ENDPOINT_URL_STR = "https://9u7amn2107.execute-api.us-west-2.amazonaws.com/prod/api/donuts";
